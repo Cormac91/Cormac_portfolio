@@ -19,7 +19,7 @@ Examples of projects
 
 
 
-## Project 3:
+## Project 3: Analysis of customer database
 ### Task: Help the team gain a better understanding of their candidate database by analysing and reporting on the distribution of skills and salary bandings
 
 [Analysis_of_customer_database.pdf](https://github.com/Cormac91/Cormac_portfolio/files/9213128/Analysis_of_customer_database.pdf)
