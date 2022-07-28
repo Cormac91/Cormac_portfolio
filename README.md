@@ -8,10 +8,14 @@ Examples of projects
 
 
 
+
+
 ## Project 2: Customer insight analysis
 ### Task: Provide some deeper insights into the performance of the Google Merchandise store
 
 [Google_Merchandise_Store_Analytics.pdf](https://github.com/Cormac91/Cormac_portfolio/files/9192964/Google_Merchandise_Store_Analytics.pdf)
+
+
 
 
 
