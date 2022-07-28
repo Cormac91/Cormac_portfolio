@@ -3,8 +3,8 @@
 
 ## Project 1: Data analysis and visualisation of Covid-19 data
 #### Task: Determine how much of an effect does the covid-19 vaccination have on death and serious illness? How much do these effects differ in terms of age demographic and gender?
-* sssss
-* ssssss
+1. aaaaa
+2. aaaaa
 
 [Analysis_of_covid_data.pptx](https://github.com/Cormac91/Cormac_portfolio/files/9213038/Analysis_of_covid_data.pptx)
 
