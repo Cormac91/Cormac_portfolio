@@ -3,7 +3,7 @@
 
 ## Project 1: Data analysis and visualisation of Covid-19 data
 #### Task: Determine how much of an effect does the covid-19 vaccination have on death and serious illness? How much do these effects differ in terms of age demographic and gender?
-##### For this task I collected data relating to covid-19 from gov.uk. I then went about exploring the effectivness of the vaccine by comparing two periods: 'Sept-Nov 2020' and 'Sept-Nov 2021'. I chose these two periods as I wanted two sample periods which were as homogeneous as possible with the only significant difference being that by Sept 2021 over 80% of the over 70's were vaccinated. 
+###### For this task I collected data relating to covid-19 from gov.uk. I then went about exploring the effectivness of the vaccine by comparing two periods: 'Sept-Nov 2020' and 'Sept-Nov 2021'. I chose these two periods as I wanted two sample periods which were as homogeneous as possible with the only significant difference being that by Sept 2021 over 80% of the over 70's were vaccinated. 
 [Analysis_of_covid_data.pptx](https://github.com/Cormac91/Cormac_portfolio/files/9213038/Analysis_of_covid_data.pptx)
 
 
