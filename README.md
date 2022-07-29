@@ -3,8 +3,15 @@
 
 ## Project 1: Data analysis and visualisation of Covid-19 data
 #### Task: Determine how much of an effect does the covid-19 vaccination have on death and serious illness? How much do these effects differ in terms of age demographic and gender?
-1. aaaaa
-2. aaaaa
+1. Collect data from gov.uk
+2. Combine data together 
+3. Compare the periods 'Sept-Nov 2020' and 'Sept-Nov 2021' in terms of 
+* Number of excess deaths
+* Number Capacity of ICU beds
+* Number of daily positive PCR tests
+* Death rate
+* ICU bed rate
+### Since these periods are homegenous with the exception that over 70% population was vaccinated by Sept 2021
 
 [Analysis_of_covid_data.pptx](https://github.com/Cormac91/Cormac_portfolio/files/9213038/Analysis_of_covid_data.pptx)
 
