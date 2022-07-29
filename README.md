@@ -11,7 +11,6 @@
 * Number of daily positive PCR tests
 * Death rate
 * ICU bed rate
-### Since these periods are homegenous with the exception that over 70% population was vaccinated by Sept 2021
 
 [Analysis_of_covid_data.pptx](https://github.com/Cormac91/Cormac_portfolio/files/9213038/Analysis_of_covid_data.pptx)
 
