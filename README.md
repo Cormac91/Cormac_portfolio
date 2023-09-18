@@ -3,7 +3,7 @@
 ## Project 1: London House Price Prediction Model
 #### Task: Build a machine learning model where users can receive an estimate on future price changes to their property
 ###### [Software used: SQL | Python | Excel | Tableau]
-###### 
+###### x
 
 ## Project 2: Competitor price movements analysis
 #### Task: Track competitor price movements by analysing scrapped data from competitors websites
