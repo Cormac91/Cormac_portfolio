@@ -1,5 +1,8 @@
 # Cormac_portfolio
 
+## Project 1: Competitor price movements analysis
+#### Task: Track competitor price movements by analysing scrapped data from competitors websites 
+
 
 ## Project 1: Data analysis and visualisation of Covid-19 data
 #### Task: Determine how much of an effect does the covid-19 vaccination have on death and serious illness? How much do these effects differ in terms of age demographic and gender?
