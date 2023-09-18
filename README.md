@@ -1,7 +1,7 @@
 # Cormac_portfolio
 
 ## Project 1: Competitor price movements analysis
-#### Task: Track competitor price movements by analysing scrapped data from competitors websites 
+#### Task: Track competitor price movements by analysing scrapped data from competitors websites xxx
 
 
 ## Project 1: Data analysis and visualisation of Covid-19 data
