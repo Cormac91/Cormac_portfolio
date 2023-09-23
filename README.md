@@ -3,7 +3,7 @@
 ## Project 1: London House Price Prediction Model
 #### Task: Build a machine learning model where users can receive an estimate on future price changes to their property
 ###### [Software used: SQL | Python | Excel | Tableau]
-###### x
+###### Built a graphical user interface where users can receive an estimate on future price changes of their property.This is done by the user entering key values such as postcode, quality of local schools, availability of off road parking and type of property.Estimates are calculated by using machine learning models to predict the future value of a property based on past data from HM Land Registry which includes information such as type of property, location, and availability of off road parking, as well as using data from the wider economy such as new dwellings completed each year and the rate of inflation. When testing the model, it achieved an average absolute error of £117k or 16%
 
 ## Project 2: Competitor price movements analysis
 #### Task: Track competitor price movements by analysing scrapped data from competitors websites
