@@ -7,7 +7,7 @@
 
 PK
 
-[Trial_prod_financials.xlsx](https://github.com/Cormac91/Cormac_portfolio/files/9192964/Trial_prod_financials.xlsx) 
+[Trial_prod_financials.xlsx](https://github.com/Cormac91/Cormac_portfolio/files/9192964/Trial_prod_financials.xlsx)  
 
 [Analysis_of_covid_data.pptx](https://github.com/Cormac91/Cormac_portfolio/files/9213038/Analysis_of_covid_data.pptx)
 
