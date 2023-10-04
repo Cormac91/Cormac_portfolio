@@ -5,7 +5,7 @@
 ###### [Software used: SQL | SAS | Excel]
 ###### Anaylsing the perforance of the pricing trial in terms of trading margin, ASP, sales volume and revenue, looking at everything from branch behaviour to customer spending patterns and comparing this from a pre vs post trial perspective and from a trial vs control perspective. The results of this were presented in a report in the form of interactive dashboards, and summarises in the form of a story.
 "C:\Users\Anne\Downloads\Trial_prod_financials.xlsx"
-[Trial_prod_financials.xlsx](https://github.com/Cormac91/Cormac_portfolio/files/9192964/Trial_prod_financials.xlsx)
+[Trial_prod_financials.xlsx](https://github.com/Cormac91/Cormac_portfolio/files/9192964/Trial_prod_financials.xlsx) 
 
 [Analysis_of_covid_data.pptx](https://github.com/Cormac91/Cormac_portfolio/files/9213038/Analysis_of_covid_data.pptx)
 [Google_Merchandise_Store_Analytics.pdf](https://github.com/Cormac91/Cormac_portfolio/files/9192964/Google_Merchandise_Store_Analytics.pdf)
