@@ -7,7 +7,7 @@
 
 https://github.com/Cormac91/Cormac_portfolio/blob/0d6c0f402502ce892920e89053c0d9c9ccc9733e/Write_up.docx
 
-[Trial_prod_financials.xlsx](https://github.com/Cormac91/Cormac_portfolio/files/9192964/Trial_prod_financials.xlsx)  
+[Trial_prod_financials.xlsx](https://github.com/Cormac91/Cormac_portfolio/files/9192964/Trial_prod_financials.xlsx)   
 
 [Analysis_of_covid_data.pptx](https://github.com/Cormac91/Cormac_portfolio/files/9213038/Analysis_of_covid_data.pptx)
 
