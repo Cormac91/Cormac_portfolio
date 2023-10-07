@@ -1,7 +1,7 @@
 # Cormac_portfolio
 
 ## Project 1: Competitor price movements analysis
-#### Task: Track competitor price movements by analysing scrapped data from competitors websites
+#### Task: Track competitor price movements by analysing scrapped data from competitors websites 
 ###### [Software used: SQL | SAS | Google sheets]
 ###### Analysing everything relating to competitor price changes from when they make changes, how much prices change by on average, to which categories see the most changes. This allowed the company to ensure they stayed competitive on price. The results were then presented as an easy to read interactive dashboard and a summary in the form of a story.
 https://docs.google.com/spreadsheets/d/1a3pLU8HvmiH7yXynPZ4_ueWpngaQw6VUl1HDqwHhXfE/edit#gid=996592090
